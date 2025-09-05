@@ -46,5 +46,6 @@ Make sure it is loaded by the web interface (or include via <script> tag if nece
 
 License & Credits
 
-Developed by me with assistance from ChatGPT.
+This plugin was designed with assistance from ChatGPT for code generation and documentation.
+
 Provided as-is, free for personal and non-commercial use. Attribution appreciated.
